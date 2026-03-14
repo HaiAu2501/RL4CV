@@ -75,6 +75,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Embodied Visual Active Learning for Semantic Segmentation** | AAAI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2012.09503) |
 | **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.00480) |
 | **Focus-Then-Decide: Segmentation-Assisted Reinforcement Learning** | AAAI | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/29002) |
+| **SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/forum?id=dHOSTp8MBl) |
 
 ---
 
@@ -128,6 +129,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
+| **A Reinforcement Learning Approach to the View Planning Problem** | CVPR | 2017 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1610.06204) |
 | **Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jayaraman_Learning_to_Look_CVPR_2018_paper.pdf) |
 | **Next-Best View Policy for 3D Reconstruction** | ECCV Workshop | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2008.12664) |
 | **GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2402.16174) |
@@ -141,6 +143,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
 | **Communicative Reinforcement Learning Agents for Landmark Detection in Brain Images** | MICCAI MLCN Workshop | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2008.08055) |
+| **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning** ⭐ | CVPR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1911.10334) |
 | **Sequential Attention-based Sampling for Histopathological Analysis** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115302) |
 
 
