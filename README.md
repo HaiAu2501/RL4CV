@@ -70,6 +70,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Reinforced Active Learning for Image Segmentation** ⭐ | ICLR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2002.06583) |
 | **Embodied Visual Active Learning for Semantic Segmentation** | AAAI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2012.09503) |
 | **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.00480) |
+| **Focus-Then-Decide: Segmentation-Assisted Reinforcement Learning** | AAAI | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/29002) |
 
 ---
 
@@ -104,8 +105,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 |-------|-------|------|-------|
 | **End-to-end Learning of Action Detection from Frame Glimpses in Videos** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06984) |
 | **Video Captioning via Hierarchical Reinforcement Learning** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1711.11135) |
-
-
+| **Reinforcement Cutting-Agent Learning for Video Object Segmentation** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf) |
 
 ---
 
@@ -117,8 +117,9 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 |-------|-------|------|-------|
 | **Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image** | CVPR (Oral) | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1903.04019) |
 | **Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning** | CVPR (Spotlight) | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1804.03312) |
+| **Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing** | AAAI | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/4240) |
 | **Path-Restore: Learning Network Path Selection for Image Restoration** | TPAMI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.10343) |
-
+| **MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration** | ICCV | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.html) |
 
 ---
 
