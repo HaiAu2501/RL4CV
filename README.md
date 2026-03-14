@@ -27,7 +27,7 @@ This repository is a curated **awesome list** of research papers at the intersec
 Papers are organized by CV task to help researchers quickly navigate the rapidly evolving landscape.
 
 > [!NOTE]
-> RL4CV denotes methods where reinforcement learning is used as the core optimization framework to solve computer vision tasks or improve vision pipelines.
+> RL4CV denotes methods where reinforcement learning is applied to support or improve computer vision tasks and vision pipelines.
 
 > **Available Tags**: 
 > * Highly Cited ⭐
@@ -118,6 +118,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Fully Convolutional Network with Multi-Step Reinforcement Learning for Image Processing** | AAAI | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/4240) |
 | **Path-Restore: Learning Network Path Selection for Image Restoration** | TPAMI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.10343) |
 | **MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration** | ICCV | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.html) |
+| **EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling** | ICLR | 2026 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/forum?id=E7YpL4L4Xh) |
 
 ---
 
