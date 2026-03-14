@@ -35,11 +35,10 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 - [1. Object Detection & Localization](#1-object-detection--localization)
 - [2. Image Segmentation](#2-image-segmentation)
 - [3. Image & Video Generation](#3-image--video-generation)
-- [4. Visual Question Answering & Multimodal Reasoning](#4-visual-question-answering--multimodal-reasoning)
-- [5. Video Understanding & Temporal Grounding](#5-video-understanding--temporal-grounding)
-- [6. Image Restoration & Enhancement](#6-image-restoration--enhancement)
-- [7. 3D Vision & View Planning](#7-3d-vision--view-planning)
-- [8. Medical Image Analysis](#8-medical-image-analysis)
+- [4. Video Understanding & Reasoning](#4-video-understanding--reasoning)
+- [5. Image Restoration & Enhancement](#5-image-restoration--enhancement)
+- [6. 3D Vision & View Planning](#6-3d-vision--view-planning)
+- [7. Medical Image Analysis](#7-medical-image-analysis)
 
 ---
 
@@ -87,17 +86,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 ---
 
-### 4. Visual Question Answering & Multimodal Reasoning
-
-> RL and RLHF for improving visual reasoning, grounding, and answer quality in VLMs.
-
-| Paper | Venue | Year | Links |
-|-------|-------|------|-------|
-| Comming Soon... | - | - | - |
-
----
-
-### 5. Video Understanding & Reasoning
+### 4. Video Understanding & Reasoning
 
 > RL for long-horizon temporal reasoning, highlight detection, and video summarization.
 
@@ -113,7 +102,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 ---
 
-### 6. Image Restoration & Enhancement
+### 5. Image Restoration & Enhancement
 
 > RL for adaptive, step-wise image denoising, super-resolution, and retouching.
 
@@ -127,7 +116,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 ---
 
-### 7. 3D Vision & View Planning
+### 6. 3D Vision & View Planning
 
 > RL for next-best-view selection, 3D scene reconstruction, and point cloud understanding.
 
@@ -139,7 +128,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 ---
 
-### 8. Medical Image Analysis
+### 7. Medical Image Analysis
 
 > RL for landmark detection, lesion localization, and anatomy-aware segmentation.
 
