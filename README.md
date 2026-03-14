@@ -64,6 +64,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 |-------|-------|------|-------|
 | **Reinforced Active Learning for Image Segmentation** ⭐ | ICLR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2002.06583) |
 | **Embodied Visual Active Learning for Semantic Segmentation** | AAAI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2012.09503) |
+| **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.00480) |
 
 ---
 
@@ -73,7 +74,10 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Comming Soon... | - | - | - |
+| **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** | NeurIPS | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2304.05977) |
+| **DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models** | NeurIPS | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2305.16381) |
+| **Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences** | TMLR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2410.18881) |
+| **Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/CVPR2024/html/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.html) |
 
 ---
 
@@ -93,7 +97,10 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Comming Soon... | - | - | - |
+| **End-to-end Learning of Action Detection from Frame Glimpses in Videos** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06984) |
+| **Video Captioning via Hierarchical Reinforcement Learning** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1711.11135) |
+
+
 
 ---
 
@@ -103,7 +110,10 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Comming Soon... | - | - | - |
+| **Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image** | CVPR (Oral) | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1903.04019) |
+| **Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning** | CVPR (Spotlight) | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1804.03312) |
+| **Path-Restore: Learning Network Path Selection for Image Restoration** | TPAMI | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.10343) |
+
 
 ---
 
@@ -113,7 +123,9 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Comming Soon... | - | - | - |
+| **Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jayaraman_Learning_to_Look_CVPR_2018_paper.pdf) |
+| **Next-Best View Policy for 3D Reconstruction** | ECCV Workshop | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2008.12664) |
+| **GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2402.16174) |
 
 ---
 
@@ -123,7 +135,9 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Comming Soon... | - | - | - |
+| **Communicative Reinforcement Learning Agents for Landmark Detection in Brain Images** | MICCAI MLCN Workshop | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2008.08055) |
+| **Sequential Attention-based Sampling for Histopathological Analysis** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115302) |
+
 
 ---
 
