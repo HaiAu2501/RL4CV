@@ -52,7 +52,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Active Object Localization with Deep Reinforcement Learning** ⭐ | ICCV | 2015 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06015) |
 | **Hierarchical Object Detection with Deep Reinforcement Learning** | NeurIPS DRL Workshop | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1611.03718) |
 | **Tree-Structured Reinforcement Learning for Sequential Object Localization** | NeurIPS | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1703.02710) |
-| **Reinforcement Learning for Visual Object Detection** | CVPR | 2016 | [![Paper](https://img.shields..io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf) |
+| **Reinforcement Learning for Visual Object Detection** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf) |
 
 ---
 
