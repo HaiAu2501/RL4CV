@@ -56,7 +56,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
 | **Recurrent Models of Visual Attention** ⭐ | NeurIPS | 2014 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1406.6247) |
-| **Multiple Object Recognition with Visual Attention** | ICLR | 2015 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1412.7755) |
+| **Multiple Object Recognition with Visual Attention** ⭐ | ICLR | 2015 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1412.7755) |
 | **Active Object Localization with Deep Reinforcement Learning** ⭐ | ICCV | 2015 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06015) |
 | **Hierarchical Object Detection with Deep Reinforcement Learning** | NeurIPS DRL Workshop | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1611.03718) |
 | **Tree-Structured Reinforcement Learning for Sequential Object Localization** | NeurIPS | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1703.02710) |
@@ -171,7 +171,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Cognitive Mapping and Planning for Visual Navigation** ⭐ | CVPR | 2017 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1702.03920) |
 | **Embodied Question Answering** ⭐ | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1711.11543) |
 | **Neural Map: Structured Memory for Deep Reinforcement Learning** | ICLR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1702.08360) |
-| **Learning to Navigate in Cities Without a Map** | NeurIPS | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1804.00168) |
+| **Learning to Navigate in Cities Without a Map** ⭐ | NeurIPS | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1804.00168) |
 | **Visual Semantic Navigation using Scene Priors** | ICLR | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1810.06543) |
 | **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** ⭐ | ICLR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1911.00357) |
 
@@ -183,7 +183,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| **LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF** | arXiv | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2309.14525) |
+| **LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF** ⭐ | arXiv | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2309.14525) |
 | **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback** ⭐ | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2312.00849) |
 | **R1-V: Reinforcing Super-Human Visual Perception in Multimodal Large Language Models with Cold-Start RL** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.06749) |
 | **Visual-RFT: Visual Reinforcement Fine-Tuning** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.01785) |
