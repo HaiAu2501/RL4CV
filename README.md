@@ -52,7 +52,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Active Object Localization with Deep Reinforcement Learning** ⭐ | ICCV | 2015 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06015) |
 | **Hierarchical Object Detection with Deep Reinforcement Learning** | NeurIPS DRL Workshop | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1611.03718) |
 | **Tree-Structured Reinforcement Learning for Sequential Object Localization** | NeurIPS | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1703.02710) |
-| **Reinforcement Learning for Visual Object Detection** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf) |
+| **Reinforcement Learning for Visual Object Detection** ⭐ | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf) |
 | **Efficient Object Detection in Large Images using Deep Reinforcement Learning** | WACV | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1912.03966) |
 | **Learning to View: Decision Transformers for Active Object Detection** | ICRA | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2301.09544) |
 | **Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery** | NeurIPS | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2310.19080) |
@@ -97,15 +97,19 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 
 ---
 
-### 5. Video Understanding & Temporal Grounding
+### 5. Video Understanding & Reasoning
 
 > RL for long-horizon temporal reasoning, highlight detection, and video summarization.
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
 | **End-to-end Learning of Action Detection from Frame Glimpses in Videos** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1511.06984) |
+| **Reinforced Video Captioning with Entailment Rewards** | EMNLP | 2017 | [![Paper](https://img.shields.io/badge/Paper-red)](https://aclanthology.org/D17-1103/) |
+| **Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward** ⭐ | AAAI | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1801.00054) |
 | **Video Captioning via Hierarchical Reinforcement Learning** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1711.11135) |
 | **Reinforcement Cutting-Agent Learning for Video Object Segmentation** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf) |
+| **Scaling RL to Long Videos** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/forum?id=TxedB8hI5O) |
+| **Video-R1: Reinforcing Video Reasoning in MLLMs** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.21776) |
 
 ---
 
