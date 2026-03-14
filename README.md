@@ -26,7 +26,12 @@ This repository is a curated **awesome list** of research papers at the intersec
 
 Papers are organized by CV task to help researchers quickly navigate the rapidly evolving landscape.
 
-> **Available Tags**: Highly Cited ⭐, Datasets & Benchmarks 📊
+> [! NOTE]
+> RL4CV denotes methods where reinforcement learning is used as the core optimization framework to solve computer vision tasks or improve vision pipelines.
+
+> **Available Tags**: 
+> * Highly Cited ⭐
+> * Benchmarks & Datasets 📊
 
 --- 
 
