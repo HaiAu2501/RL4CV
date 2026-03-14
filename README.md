@@ -53,6 +53,11 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Hierarchical Object Detection with Deep Reinforcement Learning** | NeurIPS DRL Workshop | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1611.03718) |
 | **Tree-Structured Reinforcement Learning for Sequential Object Localization** | NeurIPS | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1703.02710) |
 | **Reinforcement Learning for Visual Object Detection** | CVPR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf) |
+| **Efficient Object Detection in Large Images using Deep Reinforcement Learning** | WACV | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1912.03966) |
+| **Learning to View: Decision Transformers for Active Object Detection** | ICRA | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2301.09544) |
+| **Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery** | NeurIPS | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2310.19080) |
+| **Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection** | NeurIPS | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://neurips.cc/virtual/2024/poster/94227) |
+
 
 ---
 
