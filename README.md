@@ -66,6 +66,9 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Learning to View: Decision Transformers for Active Object Detection** | ICRA | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2301.09544) |
 | **Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery** | NeurIPS | 2023 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2310.19080) |
 | **Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection** | NeurIPS | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://neurips.cc/virtual/2024/poster/94227) |
+| **Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning** ⭐ | CVPR | 2017 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2017/html/Yun_Action-Decision_Networks_for_CVPR_2017_paper.html) |
+| **AutoAugment: Learning Augmentation Strategies from Data** ⭐ | CVPR | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1805.09501) |
+| **A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping** | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_A2-RL_Aesthetics_Aware_CVPR_2018_paper.html) |
 
 
 ---
@@ -81,6 +84,7 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.00480) |
 | **Focus-Then-Decide: Segmentation-Assisted Reinforcement Learning** | AAAI | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/29002) |
 | **SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/forum?id=dHOSTp8MBl) |
+| **Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.06520) |
 
 ---
 
@@ -97,6 +101,8 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Rich Human Feedback for Text-to-Image Generation** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2312.10240) |
 | **Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences** | TMLR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2410.18881) |
 | **Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/CVPR2024/html/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.html) |
+| **AlignProp: Aligning Diffusion Models by Backpropagating to Prompts** | ICLR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2310.03739) |
+| **RLVLM-F: Reinforcement Learning from Vision-Language Model Feedback for Image Generation** | ICLR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2402.01176) |
 
 ---
 
@@ -115,6 +121,8 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **AdaFocus: Adaptive Focus for Efficient Video Recognition** | ICCV | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2105.03245) |
 | **Scaling RL to Long Videos** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/forum?id=TxedB8hI5O) |
 | **Video-R1: Reinforcing Video Reasoning in MLLMs** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.21776) |
+| **SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition** | ICCV | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.04289) |
+| **AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition** | CVPR | 2022 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2112.14238) |
 
 ---
 
@@ -157,6 +165,8 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning** ⭐ | CVPR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1911.10334) |
 | **Automatic View Planning with Multi-scale Deep Reinforcement Learning Agents** | MICCAI | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1806.03228) |
 | **Sequential Attention-based Sampling for Histopathological Analysis** | NeurIPS | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://neurips.cc/virtual/2025/loc/san-diego/poster/115302) |
+| **An Artificial Agent for Robust Image Registration** | AAAI | 2017 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1611.10336) |
+| **Active MR k-Space Sampling with Reinforcement Learning** | MICCAI | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2007.10469) |
 
 
 ---
@@ -174,6 +184,14 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **Learning to Navigate in Cities Without a Map** ⭐ | NeurIPS | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1804.00168) |
 | **Visual Semantic Navigation using Scene Priors** | ICLR | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1810.06543) |
 | **DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames** ⭐ | ICLR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1911.00357) |
+| **End-to-End Training of Deep Visuomotor Policies** ⭐ | JMLR | 2016 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1504.00702) |
+| **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** ⭐ | CVPR | 2018 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1711.07280) |
+| **Habitat: A Platform for Embodied AI Research** 📊 | ICCV | 2019 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.01201) |
+| **Learning to Explore using Active Neural SLAM** | ICLR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2004.05155) |
+| **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments** | CVPR | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1904.10151) |
+| **Object Goal Navigation using Goal-Oriented Semantic Exploration** | NeurIPS | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2007.00643) |
+| **SoundSpaces: Audio-Visual Navigation in 3D Environments** | ECCV | 2020 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/1912.11474) |
+| **VLN-BERT: A Recurrent Vision-and-Language BERT for Navigation** | CVPR | 2021 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2011.13922) |
 
 ---
 
@@ -187,6 +205,9 @@ Papers are organized by CV task to help researchers quickly navigate the rapidly
 | **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback** ⭐ | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2312.00849) |
 | **R1-V: Reinforcing Super-Human Visual Perception in Multimodal Large Language Models with Cold-Start RL** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.06749) |
 | **Visual-RFT: Visual Reinforcement Fine-Tuning** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.01785) |
+| **LLaVA-o1: Let Visual Language Models Reason Step-by-Step** | arXiv | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2411.10440) |
+| **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback** | CVPR | 2024 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2311.10081) |
+| **OmniAlign-V: Towards Enhanced Alignment of MLLMs with Comprehensive Human Feedback** | arXiv | 2025 | [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2502.18411) |
 
 
 ---
